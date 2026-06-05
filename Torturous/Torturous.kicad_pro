@@ -648,13 +648,21 @@
         "uuid": "ff534fae-ff9f-4407-93f5-4b7919801e88"
       }
     ],
-    "used_designators": "D1-19,MX1-20,BT1,U1-2",
+    "used_designators": "#PWR2,J2-5,D21-22,S2,MX20",
     "variants": []
   },
   "sheets": [
     [
       "ff534fae-ff9f-4407-93f5-4b7919801e88",
       "Root"
+    ],
+    [
+      "055095fa-150c-4686-ad88-cfbdebbe6e43",
+      "Thumb"
+    ],
+    [
+      "880a7ad1-4624-4239-b868-7978bf2f83ca",
+      "HE"
     ]
   ],
   "text_variables": {},
