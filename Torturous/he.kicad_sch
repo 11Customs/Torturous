@@ -1581,7 +1581,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_FFC-FPC:Hirose_FH12-8S-0.5SH_1x08-1MP_P0.50mm_Horizontal"
 			(at 38.1 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -1681,7 +1681,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_FFC-FPC:Amphenol_F32Q-1A7x1-11005_1x05-1MP_P0.5mm_Horizontal"
 			(at 72.39 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -1874,7 +1874,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "463091370402:463091370402"
+		(property "Footprint" "Microswith:463091370402"
 			(at 82.55 50.8 0)
 			(hide yes)
 			(show_name no)

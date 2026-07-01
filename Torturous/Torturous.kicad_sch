@@ -5227,7 +5227,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
 			(at 84.836 34.29 90)
 			(hide yes)
 			(show_name no)
@@ -5580,7 +5580,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_FFC-FPC:Amphenol_F32Q-1A7x1-11004_1x04-1MP_P0.5mm_Horizontal"
 			(at 80.01 176.53 0)
 			(hide yes)
 			(show_name no)
@@ -6532,7 +6532,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "463091370402:463091370402"
+		(property "Footprint" "Microswith:463091370402"
 			(at 115.57 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -7575,7 +7575,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical"
 			(at 129.794 138.43 0)
 			(hide yes)
 			(show_name no)
@@ -7738,7 +7738,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_FFC-FPC:Hirose_FH12-8S-0.5SH_1x08-1MP_P0.50mm_Horizontal"
 			(at 110.49 52.07 0)
 			(hide yes)
 			(show_name no)
