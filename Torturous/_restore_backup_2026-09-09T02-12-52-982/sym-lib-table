@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Nice!Nano") (type "KiCad") (uri "/run/media/Software/Torturous/Lib/nice_nano.kicad_sym") (options "") (descr ""))
+	(lib (name "Micro Switch") (type "KiCad") (uri "/run/media/Software/Torturous/Lib/463091370402.kicad_sym") (options "") (descr ""))
+)
